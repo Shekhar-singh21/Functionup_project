@@ -1,0 +1,2 @@
+ git restore file name will undo the file as it was before modified whereas git restore --stage file name will remove the file from commit stage to the local system!
+
